@@ -1,7 +1,5 @@
 # naukri-website-clone 
 
-## [Deployed Link](https://naukri-clone-page.netlify.app/)  ||     [Blog Link](https://medium.com/@shubhamkmit9021/naukri-clone-e6cf540ab567)  
-
 ## TASK
 
 - In this we created a pixel perfect clone of the famous job search website Naukri.com with basic core functionalities and good looking user interface.
